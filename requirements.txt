@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+jupyter
+pillow
+opencv-python
+sklearn
+
+
+
+numpy
+opencv-python-headless
+pillow
+sklearn
+django
